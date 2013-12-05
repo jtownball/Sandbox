@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="typeSudoku">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Typedef Name="typeSudoku::coordinates" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>typeSudoku.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Struct Name="typeSudoku::__unnamed_struct_0016_1">
+        <TypeIdentifier>
+          <NewMemberFileName>typeSudoku.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAIIAAAAAABCCAACAAAARgAAAAAAAAACAAA=</HashCode>
+      <FileName>typeSudoku.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
